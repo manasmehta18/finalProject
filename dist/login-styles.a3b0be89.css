@@ -11453,11 +11453,11 @@ body {
 }
 
 #introLogo {
-  background-image: url("/soundcloudishLogin.17e080bf.png");
+  background-image: url("soundcloudishLogin.17e080bf.png");
 }
 
 #musicPic {
-  background-image: url("/music.c6847a52.jpg");
+  background-image: url("music.c6847a52.jpg");
 }
 
 #root {
@@ -54584,4 +54584,4 @@ button:hover {
   }
 }
 
-/*# sourceMappingURL=/login-styles.a3b0be89.css.map */
+/*# sourceMappingURL=login-styles.a3b0be89.css.map */

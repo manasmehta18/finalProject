@@ -32109,9 +32109,9 @@ var define;
   }]);
 });
 },{}],"../media/Manas.jpg":[function(require,module,exports) {
-module.exports = "/Manas.0e7098c7.jpg";
+module.exports = "Manas.0e7098c7.jpg";
 },{}],"../media/appVisual.png":[function(require,module,exports) {
-module.exports = "/appVisual.c43b03dd.png";
+module.exports = "appVisual.c43b03dd.png";
 },{}],"../js/LoginApp.js":[function(require,module,exports) {
 "use strict";
 
@@ -32502,7 +32502,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "54302" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52287" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -32679,4 +32679,4 @@ function hmrAcceptRun(bundle, id) {
   }
 }
 },{}]},{},["../../node_modules/parcel-bundler/src/builtins/hmr-runtime.js","../js/login.js"], null)
-//# sourceMappingURL=/login.3c6b0751.js.map
+//# sourceMappingURL=login.3c6b0751.js.map
